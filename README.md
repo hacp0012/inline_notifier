@@ -18,7 +18,7 @@ to update the data on the previous page)
 import 'package:inline_notifier/inline_notifier.dart';
 ```
 
-Ajoutez ceci dans votre code, après avoir fait ceci :
+Add this in your code, after doing this:
 
 ```bash
 flutter add inline_notifier
@@ -88,4 +88,4 @@ class _PageAState extends State<PageA> {
 
 ## Additional information
 
-Other package of same dev : run_it, ui_value
+Other package of same dev : [run_it](https://pub.dev/packages/run_it), [ui_value](https://pub.dev/packages/ui_value)
